@@ -1,0 +1,23 @@
+﻿<Window x:Class="WindowFood.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WindowFood"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="418.106" Width="683.1" Background="#FFFFF3AA" MinHeight="418">
+    <Grid>
+        <Grid x:Name="grdSidePanel" HorizontalAlignment="Left" Width="75">
+            <StackPanel x:Name="stkMenu" Width="75" Background="#FF8F6F50" Orientation="Vertical">
+                <local:MenuControlItem panelName="Ledge" imageIcon="resource/window.png" selected="True"></local:MenuControlItem>
+                <local:MenuControlItem panelName="Bin" imageIcon="resource/garbage.png"></local:MenuControlItem>
+                <local:MenuControlItem panelName="Stats" imageIcon="resource/bars-chart.png"/>
+                <local:MenuControlItem panelName="Me" imageIcon="resource/boy.png"/>
+            </StackPanel>
+
+        </Grid>
+        <Rectangle x:Name="recSidePanelBorder" HorizontalAlignment="Left" Margin="75,0,0,0" Width="2" Fill="#FF7C6045"/>
+        <local:MenuControlItem HorizontalAlignment="Left" VerticalAlignment="Bottom" imageIcon="resource/settings.png" panelName="Settings"/>
+
+    </Grid>
+</Window>

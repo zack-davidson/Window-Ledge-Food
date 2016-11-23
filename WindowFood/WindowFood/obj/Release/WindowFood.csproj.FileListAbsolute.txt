@@ -1,0 +1,16 @@
+c:\users\30008095\documents\visual studio 2015\Projects\WindowFood\WindowFood\bin\Release\WindowFood.exe.config
+c:\users\30008095\documents\visual studio 2015\Projects\WindowFood\WindowFood\bin\Release\WindowFood.exe
+c:\users\30008095\documents\visual studio 2015\Projects\WindowFood\WindowFood\bin\Release\WindowFood.pdb
+c:\users\30008095\documents\visual studio 2015\Projects\WindowFood\WindowFood\obj\Release\MainWindow.g.cs
+c:\users\30008095\documents\visual studio 2015\Projects\WindowFood\WindowFood\obj\Release\MenuControlItem.g.cs
+c:\users\30008095\documents\visual studio 2015\Projects\WindowFood\WindowFood\obj\Release\App.g.cs
+c:\users\30008095\documents\visual studio 2015\Projects\WindowFood\WindowFood\obj\Release\GeneratedInternalTypeHelper.g.cs
+c:\users\30008095\documents\visual studio 2015\Projects\WindowFood\WindowFood\obj\Release\WindowFood_MarkupCompile.cache
+c:\users\30008095\documents\visual studio 2015\Projects\WindowFood\WindowFood\obj\Release\WindowFood_MarkupCompile.lref
+c:\users\30008095\documents\visual studio 2015\Projects\WindowFood\WindowFood\obj\Release\MainWindow.baml
+c:\users\30008095\documents\visual studio 2015\Projects\WindowFood\WindowFood\obj\Release\MenuControlItem.baml
+c:\users\30008095\documents\visual studio 2015\Projects\WindowFood\WindowFood\obj\Release\WindowFood.g.resources
+c:\users\30008095\documents\visual studio 2015\Projects\WindowFood\WindowFood\obj\Release\WindowFood.Properties.Resources.resources
+c:\users\30008095\documents\visual studio 2015\Projects\WindowFood\WindowFood\obj\Release\WindowFood.csproj.GenerateResource.Cache
+c:\users\30008095\documents\visual studio 2015\Projects\WindowFood\WindowFood\obj\Release\WindowFood.exe
+c:\users\30008095\documents\visual studio 2015\Projects\WindowFood\WindowFood\obj\Release\WindowFood.pdb
